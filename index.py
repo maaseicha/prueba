@@ -25,3 +25,6 @@ except:
     PRINT("PRUEBA")
 
 conexion.close()
+rITHER tANDAZO
+jONATHAN QUINATOA
+DIEGO SANCHEZ
