@@ -23,5 +23,6 @@ try:
 except:
     print("Valores no ingresados")
     PRINT("PRUEBA")
+    PRINT("PRUEBA2")
 
 conexion.close()
