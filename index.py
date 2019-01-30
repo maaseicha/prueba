@@ -22,5 +22,6 @@ try:
     print("ingresado valores en la BD")
 except:
     print("Valores no ingresados")
+    PRINT("PRUEBA")
 
 conexion.close()
