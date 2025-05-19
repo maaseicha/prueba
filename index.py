@@ -19,7 +19,7 @@ valores="insert into usuario(codigo,nombre)values('2','Alexander')"
 try:
     cursor.execute(valores)
     conexion.commit()
-    print("ingresado valores en la BD")
+    print("ingresado valores en la BD ")
 except:
     print("Valores no ingresados")
 
